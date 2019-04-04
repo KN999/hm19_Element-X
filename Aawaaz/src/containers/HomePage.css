@@ -1,0 +1,16 @@
+.Home {
+    margin-top: 25%;
+}
+
+.jumbotron {
+    background-color:transparent;
+}
+
+.Home > .btn {
+    font-size: 30px;
+    position: absolute;
+    right: 40%;
+    color: white;
+    background-color: blueviolet;
+}
+
